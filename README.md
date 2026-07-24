@@ -119,10 +119,9 @@ F H <BR>
 
 ## OUTPUT:
 
-![img](https://github.com/Girithickrohan/depth-first-searchs/blob/main/Screenshot%202026-07-24%20105926.png)
+![img](https://github.com/Girithickrohan/depth-first-searchs/blob/main/Screenshot%202026-07-24%20110948.png)
 
 <hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
-
