@@ -118,7 +118,8 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 ## OUTPUT:
-![img]()
+
+![img](https://github.com/Girithickrohan/depth-first-searchs/blob/main/Screenshot%202026-07-24%20105926.png)
 
 <hr>
 <h3>Result:</h3>
